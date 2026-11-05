@@ -5,10 +5,10 @@ link.href = "./style.css";
 document.head.appendChild(link);
 
 const toDoList = [
-  { name: "portare fuori il cane", fatto: false },
-  { name: "dare da mangiare a mio figlio", fatto: false },
-  { name: "studiare per l'esame", fatto: false },
-  { name: "conquistare il sud america", fatto: false }
+  { name: "riparare la TV", fatto: false },
+  { name: "cucinare il pranzo", fatto: false },
+  { name: "studiare per l'esame di guida", fatto: false },
+  { name: "picchiare anziani fuori dall'italmark", fatto: false }
 ];
 
 const div_input = document.createElement("div");
